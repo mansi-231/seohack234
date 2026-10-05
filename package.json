@@ -1,0 +1,19 @@
+{
+  "name": "seohack-website",
+  "version": "1.0.0",
+  "description": "Practical SEO and Digital Marketing learning website for beginners.",
+  "scripts": {
+    "build": "echo \"Static build ready\"",
+    "start": "npx serve . -l 3000",
+    "serve": "npx serve . -l 3000"
+  },
+  "keywords": [
+    "seo",
+    "digital-marketing",
+    "beginner-friendly",
+    "education",
+    "guides"
+  ],
+  "author": "seohack",
+  "license": "MIT"
+}

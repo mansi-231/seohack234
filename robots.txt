@@ -1,0 +1,7 @@
+# robots.txt for seohack
+# Practical digital marketing and SEO learning for beginners
+
+User-agent: *
+Allow: /
+
+Sitemap: https://seohack.local/sitemap.xml
